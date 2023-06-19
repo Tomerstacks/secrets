@@ -6,15 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Tomerstacks",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
     "dotenv": "^16.3.1",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
+    "md5": "^2.3.0",
     "mongodb": "^5.6.0",
     "mongoose": "^7.3.0",
-    "mongoose-encryption": "^2.1.2"
+    "mongoose-encryption": "^2.1.2",
+    "nodemon": "^2.0.22"
   }
 }
